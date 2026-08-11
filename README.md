@@ -1,3 +1,21 @@
+## Screenshots
+
+- **Home**
+
+<img width="791" height="879" alt="w1" src="https://github.com/user-attachments/assets/e525f0d3-a556-46b4-af3e-1792fb72e390" />
+
+
+- **Reschedule Form**
+
+<img width="845" height="697" alt="w2" src="https://github.com/user-attachments/assets/2e21797e-5d96-4c5f-b010-0cce8d81828b" />
+
+
+- **Success Message**
+
+<img width="835" height="808" alt="w3" src="https://github.com/user-attachments/assets/02bc4822-3aaf-4e77-ab92-8e8d2164c8ee" />
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
